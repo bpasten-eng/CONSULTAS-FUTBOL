@@ -1,0 +1,29 @@
+CONTAINER ID   IMAGE            COMMAND           CREATED         STATUS                     PORTS     NAMES
+db037af93fa8   football-stats   "python app.py"   4 minutes ago   Exited (0) 4 minutes ago             samplerunning
+
+=======================================================
+  ⚽  FOOTBALL STATS CLI
+=======================================================
+  Liga consultada : English Premier League
+  Fuente          : TheSportsDB (api.thesportsdb.com)
+=======================================================
+
+  N°   EQUIPO                              FUNDADO    ESTADIO                        CIUDAD
+  ---- ----------------------------------- ---------- ------------------------------ --------------------
+  1    Arsenal                             1892       Emirates Stadium               N/D
+  2    Aston Villa                         1874       Villa Park                     N/D
+  3    Bournemouth                         1890       Vitality Stadium               N/D
+  4    Brentford                           1889       Brentford Community Stadium    N/D
+  5    Brighton and Hove Albion            1901       American Express Stadium       N/D
+  6    Burnley                             1882       Turf Moor                      N/D
+  7    Chelsea                             1905       Stamford Bridge                N/D
+  8    Crystal Palace                      1905       Selhurst Park                  N/D
+  9    Everton                             1878       Hill Dickinson Stadium         N/D
+  10   Fulham                              1879       Craven Cottage                 N/D
+
+  Total de equipos encontrados: 10
+=======================================================
+
+  ✅ Consulta completada exitosamente.
+=======================================================
+
